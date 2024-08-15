@@ -1,0 +1,16 @@
+#blue-text{
+   color: #0000f0;
+   font-size: 36px;
+}
+
+#green-background{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #90ee90;
+}
+
+p{
+    background-color: #ff9999;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
